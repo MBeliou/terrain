@@ -45,6 +45,9 @@ Terrain will help you:
 npm install --save https://github.com/MBeliou/terrain
 ```
 
+Depending on your node version (17+ I think), you might have to use the `--openssl-legacy-provider` flag.
+In this case, you'll need to call the actual bin from node_modules directly with the flag.
+
 ## Download LocalTerra
 
 For local developement environment, you need [LocalTerra](https://github.com/terra-money/localterra).
