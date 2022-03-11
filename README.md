@@ -39,6 +39,12 @@ Terrain will help you:
 
 # Setup
 
+## Install this version of Terrain
+
+```sh
+npm install --save https://github.com/MBeliou/terrain
+```
+
 ## Download LocalTerra
 
 For local developement environment, you need [LocalTerra](https://github.com/terra-money/localterra).
